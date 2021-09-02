@@ -111,19 +111,7 @@
     padding: 0;
   }
 
-  .coin-price {
-    margin: 0;
-  }
-
-  .coin-volume {
-    margin: 0;
-  }
-
-  .coin-marketcap {
-    margin: 0;
-  }
-
-  .coin-percent {
+  .coin-inf {
     margin: 0;
   }
 }

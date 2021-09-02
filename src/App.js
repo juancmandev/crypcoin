@@ -46,6 +46,7 @@ function App() {
       {filteredCoins.map((coin) => {
         return (
           <Coin
+            className='coin-inf'
             key={coin.id}
             name={coin.name}
             image={coin.image}

@@ -1,3 +1,8 @@
+# CrypCoin
+
+Web to see the current Cryptocurrency!
+You can check this project in action [here](https://whenixd.github.io/crypcoin/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

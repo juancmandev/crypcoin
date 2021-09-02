@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crypcoin/static/css/main.854a2775.chunk.css",
+    "main.js": "/crypcoin/static/js/main.c8350668.chunk.js",
+    "main.js.map": "/crypcoin/static/js/main.c8350668.chunk.js.map",
+    "runtime-main.js": "/crypcoin/static/js/runtime-main.e51460f8.js",
+    "runtime-main.js.map": "/crypcoin/static/js/runtime-main.e51460f8.js.map",
+    "static/js/2.199a078f.chunk.js": "/crypcoin/static/js/2.199a078f.chunk.js",
+    "static/js/2.199a078f.chunk.js.map": "/crypcoin/static/js/2.199a078f.chunk.js.map",
+    "index.html": "/crypcoin/index.html",
+    "static/css/main.854a2775.chunk.css.map": "/crypcoin/static/css/main.854a2775.chunk.css.map",
+    "static/js/2.199a078f.chunk.js.LICENSE.txt": "/crypcoin/static/js/2.199a078f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e51460f8.js",
+    "static/js/2.199a078f.chunk.js",
+    "static/css/main.854a2775.chunk.css",
+    "static/js/main.c8350668.chunk.js"
+  ]
+}

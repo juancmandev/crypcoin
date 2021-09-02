@@ -36,6 +36,7 @@
 
 .coin-symbol {
   text-transform: uppercase;
+  margin-left: 15px
 }
 
 .coin-data {
